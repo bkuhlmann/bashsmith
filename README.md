@@ -6,12 +6,12 @@ Provides a template for the setup and construction of new Bash scripts.
 
 # Features
 
-* Provides default project structure for creating new Bash projects.
-* Provides default settings for making Bash scripts easier to develop and debug.
+- Provides default project structure for creating new Bash projects.
+- Provides default settings for making Bash scripts easier to develop and debug.
 
 # Requirements
 
-* [Bash](https://www.gnu.org/software/bash).
+- [Bash](https://www.gnu.org/software/bash).
 
 # Setup
 
@@ -51,9 +51,9 @@ TBD
 
 Read [Semantic Versioning](http://semver.org) for details. Briefly, it means:
 
-* Patch (x.y.Z) - Incremented for small, backwards compatible bug fixes.
-* Minor (x.Y.z) - Incremented for new, backwards compatible public API enhancements and/or bug fixes.
-* Major (X.y.z) - Incremented for any backwards incompatible public API changes.
+- Patch (x.y.Z) - Incremented for small, backwards compatible bug fixes.
+- Minor (x.Y.z) - Incremented for new, backwards compatible public API enhancements and/or bug fixes.
+- Major (X.y.z) - Incremented for any backwards incompatible public API changes.
 
 # Contributions
 
