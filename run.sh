@@ -9,7 +9,7 @@
 # SETTINGS
 source settings/main.sh
 
-# FUNCTIONS
+# LIBRARY
 source lib/cli.sh
 
 # EXECUTION
