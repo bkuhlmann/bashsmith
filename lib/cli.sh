@@ -10,6 +10,9 @@ process_option() {
   case $1 in
     'q')
       break;;
+    *)
+      printf "ERROR: Invalid option.\n"
+      break;;
   esac
 }
 export -f process_option
