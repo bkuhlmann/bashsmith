@@ -1,5 +1,7 @@
 # Bashsmith
 
+[![Patreon](https://img.shields.io/badge/patreon-donate-brightgreen.svg)](https://www.patreon.com/bkuhlmann)
+
 Provides a template for the setup and construction of new Bash scripts.
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
