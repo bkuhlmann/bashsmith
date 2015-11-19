@@ -4,8 +4,8 @@
 
 Provides a template for the setup and construction of new Bash scripts.
 
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+<!-- Tocer[start]: Auto-generated, don't remove. -->
+
 # Table of Contents
 
 - [Features](#features)
@@ -20,7 +20,7 @@ Provides a template for the setup and construction of new Bash scripts.
 - [History](#history)
 - [Credits](#credits)
 
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+<!-- Tocer[finish]: Auto-generated, don't remove. -->
 
 # Features
 
