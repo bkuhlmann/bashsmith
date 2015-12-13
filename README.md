@@ -29,7 +29,7 @@ Provides a template for the setup and construction of new Bash scripts.
 
 # Requirements
 
-- [Bash](https://www.gnu.org/software/bash).
+- [Bash](https://www.gnu.org/software/bash)
 
 # Setup
 
@@ -39,7 +39,7 @@ Current Version (stable):
 
     git clone git://github.com/bkuhlmann/bashsmith.git
     cd bashsmith
-    git checkout v0.1.0
+    git checkout v1.0.0
 
 Master Version (unstable):
 
@@ -56,6 +56,7 @@ creating new Bash script projects. The structure is organized as follows:
     /settings = The global/project settings for easy manipulation/tweaking.
       /main.sh = The global settings (set with safe defaults).
     /CHANGELOG.md = The details of past version releases.
+    /CODE_OF_CONDUCT.md = Guidelines for encouraging harassment-free contributions.
     /CONTRIBUTING.md = The details of how to contribute to the project.
     /LICENSE.md = The license and copyright legalities of the project.
     /README.md = The project overview, setup, usage, test, getting started, etc. details.
@@ -63,7 +64,7 @@ creating new Bash script projects. The structure is organized as follows:
 
 # Tests
 
-TBD
+Consider using [Bats](https://github.com/sstephenson/bats).
 
 # Versioning
 
