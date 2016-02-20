@@ -1,3 +1,11 @@
+# v1.1.0 (2016-02-20)
+
+- Fixed contributing guideline links.
+- Added GitHub issue and pull request templates.
+- Updated main script format and documentation.
+- Updated run script bash header format.
+- Updated to Code of Conduct, Version 1.4.0.
+
 # v1.0.0 (2015-12-13)
 
 - Fixed hanging script with invalid option.
