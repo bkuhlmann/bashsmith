@@ -2,7 +2,7 @@
 
 [![Patreon](https://img.shields.io/badge/patreon-donate-brightgreen.svg)](https://www.patreon.com/bkuhlmann)
 
-Provides a template for the setup and construction of new Bash scripts.
+A template for smithing new Bash scripts.
 
 <!-- Tocer[start]: Auto-generated, don't remove. -->
 
