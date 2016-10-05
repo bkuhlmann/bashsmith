@@ -8,11 +8,9 @@
 # $1 = The option to process.
 process_option() {
   case $1 in
-    'q')
-      break;;
+    'q');;
     *)
-      printf "ERROR: Invalid option.\n"
-      break;;
+      printf "ERROR: Invalid option.\n";;
   esac
 }
 export -f process_option
