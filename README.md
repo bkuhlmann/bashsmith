@@ -37,13 +37,13 @@ Open a terminal window and execute one of the following setup sequences dependin
 
 Current Version (stable):
 
-    git clone git://github.com/bkuhlmann/bashsmith.git
+    git clone https://github.com/bkuhlmann/bashsmith.git
     cd bashsmith
     git checkout v1.1.0
 
 Master Version (unstable):
 
-    git clone git://github.com/bkuhlmann/bashsmith.git
+    git clone https://github.com/bkuhlmann/bashsmith.git
     cd bashsmith
 
 # Usage
