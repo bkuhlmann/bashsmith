@@ -52,17 +52,17 @@ Master Version (unstable):
 Clone this repo and rename as needed. All files located within this project provide the basic structure/blueprint for
 creating new Bash script projects. The structure is organized as follows:
 
-- `/bin`: A folder for executable Bash scripts.
-  - `/run`: The main run script (which loads the lib and settings).
-- `/lib`: A folder for Bash functions and custom code.
-  - `/cli.sh`: Provides CLI prompt options for the main `run` script.
-- `/settings`: The global/project settings for easy manipulation/tweaking.
-  - `/main.sh`: The global settings (set with safe defaults).
-- `/CHANGELOG.md`: The details of past version releases.
-- `/CODE_OF_CONDUCT.md`: Guidelines for encouraging harassment-free contributions.
-- `/CONTRIBUTING.md`: The details of how to contribute to the project.
-- `/LICENSE.md`: The license and copyright legalities of the project.
-- `/README.md`: The project overview, setup, usage, test, getting started, etc. details.
+- `bin`: A folder for executable Bash scripts.
+  - `run`: The main run script (which loads the lib and settings).
+- `lib`: A folder for Bash functions and custom code.
+  - `cli.sh`: Provides CLI prompt options for the main `run` script.
+- `settings`: The global/project settings for easy manipulation/tweaking.
+  - `main.sh`: The global settings (set with safe defaults).
+- `CHANGELOG.md`: The details of past version releases.
+- `CODE_OF_CONDUCT.md`: Guidelines for encouraging harassment-free contributions.
+- `CONTRIBUTING.md`: The details of how to contribute to the project.
+- `LICENSE.md`: The license and copyright legalities of the project.
+- `README.md`: The project overview, setup, usage, test, getting started, etc. details.
 
 # Tests
 
