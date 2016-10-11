@@ -1,3 +1,12 @@
+# v2.0.0 (2016-10-11)
+
+- Fixed Bash script header to dynamically load correct environment.
+- Updated GitHub issue and pull request templates.
+- Updated README cloning instructions to use HTTPS scheme.
+- Updated README overview description.
+- Removed `run.sh` (use `bin/run` instead).
+- Refactored run scripts to use break statements.
+
 # v1.1.0 (2016-02-20)
 
 - Fixed contributing guideline links.

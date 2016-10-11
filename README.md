@@ -33,13 +33,14 @@ A template for smithing new Bash scripts.
 
 # Setup
 
-Open a terminal window and execute one of the following setup sequences depending on your version preference:
+Open a terminal window and execute one of the following setup sequences depending on your version
+preference:
 
 Current Version (stable):
 
     git clone https://github.com/bkuhlmann/bashsmith.git
     cd bashsmith
-    git checkout v1.1.0
+    git checkout v2.0.0
 
 Master Version (unstable):
 
@@ -51,16 +52,17 @@ Master Version (unstable):
 Clone this repo and rename as needed. All files located within this project provide the basic structure/blueprint for
 creating new Bash script projects. The structure is organized as follows:
 
-    /lib = A folder for all Bash functions and custom code.
-      /cli.sh = Provides prompt options for the main run.sh script.
-    /settings = The global/project settings for easy manipulation/tweaking.
-      /main.sh = The global settings (set with safe defaults).
-    /CHANGELOG.md = The details of past version releases.
-    /CODE_OF_CONDUCT.md = Guidelines for encouraging harassment-free contributions.
-    /CONTRIBUTING.md = The details of how to contribute to the project.
-    /LICENSE.md = The license and copyright legalities of the project.
-    /README.md = The project overview, setup, usage, test, getting started, etc. details.
-    /run.sh = The main run script (which loads the lib and settings).
+- `/bin`: A folder for executable Bash scripts.
+  - `/run`: The main run script (which loads the lib and settings).
+- `/lib`: A folder for Bash functions and custom code.
+  - `/cli.sh`: Provides CLI prompt options for the main `run` script.
+- `/settings`: The global/project settings for easy manipulation/tweaking.
+  - `/main.sh`: The global settings (set with safe defaults).
+- `/CHANGELOG.md`: The details of past version releases.
+- `/CODE_OF_CONDUCT.md`: Guidelines for encouraging harassment-free contributions.
+- `/CONTRIBUTING.md`: The details of how to contribute to the project.
+- `/LICENSE.md`: The license and copyright legalities of the project.
+- `/README.md`: The project overview, setup, usage, test, getting started, etc. details.
 
 # Tests
 
@@ -76,8 +78,8 @@ Read [Semantic Versioning](http://semver.org) for details. Briefly, it means:
 
 # Code of Conduct
 
-Please note that this project is released with a [CODE OF CONDUCT](CODE_OF_CONDUCT.md). By participating in this project
-you agree to abide by its terms.
+Please note that this project is released with a [CODE OF CONDUCT](CODE_OF_CONDUCT.md). By
+participating in this project you agree to abide by its terms.
 
 # Contributions
 
@@ -94,4 +96,5 @@ Read the [CHANGELOG](CHANGELOG.md) for details.
 
 # Credits
 
-Developed by [Brooke Kuhlmann](https://www.alchemists.io) at [Alchemists](https://www.alchemists.io).
+Developed by [Brooke Kuhlmann](https://www.alchemists.io) at
+[Alchemists](https://www.alchemists.io).
