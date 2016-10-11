@@ -3,9 +3,6 @@
 # DESCRIPTION
 # Executes the script.
 
-# USAGE
-# ./run.sh OPTION
-
 # SETTINGS
 source settings/main.sh
 
