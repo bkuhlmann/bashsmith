@@ -40,7 +40,7 @@ Current Version (stable):
 
     git clone https://github.com/bkuhlmann/bashsmith.git
     cd bashsmith
-    git checkout v2.0.0
+    git checkout v2.1.0
 
 Master Version (unstable):
 
@@ -49,8 +49,8 @@ Master Version (unstable):
 
 # Usage
 
-Clone this repo and rename as needed. All files located within this project provide the basic structure/blueprint for
-creating new Bash script projects. The structure is organized as follows:
+Clone this repo and rename as needed. All files located within this project provide the basic
+structure/blueprint for creating new Bash script projects. The structure is organized as follows:
 
 - `bin`: A folder for executable Bash scripts.
   - `run`: The main run script (which loads the lib and settings).

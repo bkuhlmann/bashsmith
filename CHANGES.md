@@ -1,3 +1,10 @@
+# v2.1.0 (2016-11-19)
+
+- Fixed potential CLI option globbing and word splitting.
+- Fixed potential mangling of backslashes with `read`.
+- Updated README versioning documentation.
+- Removed CHANGELOG.md (use CHANGES.md instead).
+
 # v2.0.0 (2016-10-11)
 
 - Fixed Bash script header to dynamically load correct environment.
