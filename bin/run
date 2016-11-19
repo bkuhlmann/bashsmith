@@ -17,9 +17,9 @@ while true; do
     printf "  q: Quit/Exit.\n\n"
     read -r -p "Enter selection: " response
     printf "\n"
-    process_option $response
+    process_option "$response"
   else
-    process_option $1
+    process_option "$1"
   fi
 
   break
