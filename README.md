@@ -6,32 +6,32 @@ A template for smithing new Bash scripts.
 
 <!-- Tocer[start]: Auto-generated, don't remove. -->
 
-# Table of Contents
+## Table of Contents
 
-- [Features](#features)
-- [Requirements](#requirements)
-- [Setup](#setup)
-- [Usage](#usage)
-- [Tests](#tests)
-- [Versioning](#versioning)
-- [Code of Conduct](#code-of-conduct)
-- [Contributions](#contributions)
-- [License](#license)
-- [History](#history)
-- [Credits](#credits)
+  - [Features](#features)
+  - [Requirements](#requirements)
+  - [Setup](#setup)
+  - [Usage](#usage)
+  - [Tests](#tests)
+  - [Versioning](#versioning)
+  - [Code of Conduct](#code-of-conduct)
+  - [Contributions](#contributions)
+  - [License](#license)
+  - [History](#history)
+  - [Credits](#credits)
 
 <!-- Tocer[finish]: Auto-generated, don't remove. -->
 
-# Features
+## Features
 
 - Provides default project structure for creating new Bash projects.
 - Provides default settings for making Bash scripts easier to develop and debug.
 
-# Requirements
+## Requirements
 
 - [Bash](https://www.gnu.org/software/bash)
 
-# Setup
+## Setup
 
 Open a terminal window and execute one of the following setup sequences depending on your version
 preference:
@@ -47,7 +47,7 @@ Master Version (unstable):
     git clone https://github.com/bkuhlmann/bashsmith.git
     cd bashsmith
 
-# Usage
+## Usage
 
 Clone this repo and rename as needed. All files located within this project provide the basic
 structure/blueprint for creating new Bash script projects. The structure is organized as follows:
@@ -64,11 +64,11 @@ structure/blueprint for creating new Bash script projects. The structure is orga
 - `LICENSE.md`: The license and copyright legalities of the project.
 - `README.md`: The project overview, setup, usage, test, getting started, etc. details.
 
-# Tests
+## Tests
 
 Consider using [Bats](https://github.com/sstephenson/bats).
 
-# Versioning
+## Versioning
 
 Read [Semantic Versioning](http://semver.org) for details. Briefly, it means:
 
@@ -76,25 +76,25 @@ Read [Semantic Versioning](http://semver.org) for details. Briefly, it means:
 - Minor (x.Y.z) - Incremented for new, backwards compatible, public API enhancements/fixes.
 - Patch (x.y.Z) - Incremented for small, backwards compatible, bug fixes.
 
-# Code of Conduct
+## Code of Conduct
 
 Please note that this project is released with a [CODE OF CONDUCT](CODE_OF_CONDUCT.md). By
 participating in this project you agree to abide by its terms.
 
-# Contributions
+## Contributions
 
 Read [CONTRIBUTING](CONTRIBUTING.md) for details.
 
-# License
+## License
 
 Copyright (c) 2014 [Alchemists](https://www.alchemists.io).
 Read [LICENSE](LICENSE.md) for details.
 
-# History
+## History
 
 Read [CHANGES](CHANGES.md) for details.
 
-# Credits
+## Credits
 
 Developed by [Brooke Kuhlmann](https://www.alchemists.io) at
 [Alchemists](https://www.alchemists.io).
