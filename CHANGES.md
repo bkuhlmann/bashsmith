@@ -1,3 +1,16 @@
+# v2.2.0 (2017-08-27)
+
+- Added Git Cop support.
+- Updated CONTRIBUTING documentation.
+- Updated GitHub templates.
+- Updated README headers.
+- Updated README semantic versioning order.
+- Updated contributing documentation.
+- Updated gem dependencies.
+- Updated to Git Cop 1.3.0.
+- Updated to Git Cop 1.5.0.
+- Updated to Git Cop 1.6.0.
+
 # v2.1.0 (2016-11-19)
 
 - Fixed potential CLI option globbing and word splitting.
