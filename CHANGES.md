@@ -1,3 +1,16 @@
+# v3.0.0 (2018-01-01)
+
+- Added Gemfile.lock to .gitignore.
+- Updated Gemfile.lock file.
+- Updated to Apache 2.0 license.
+- Updated to Bundler 1.16.0.
+- Updated to Git Cop 1.7.0.
+- Updated to Rake 12.3.0.
+- Updated to Rubocop 0.51.0.
+- Updated to Ruby 2.4.2.
+- Updated to Ruby 2.4.3.
+- Updated to Ruby 2.5.0.
+
 # v2.2.0 (2017-08-27)
 
 - Added Git Cop support.
