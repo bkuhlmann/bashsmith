@@ -1,7 +1,6 @@
 # Bashsmith
 
 [![Circle CI Status](https://circleci.com/gh/bkuhlmann/bashsmith.svg?style=svg)](https://circleci.com/gh/bkuhlmann/bashsmith)
-[![Patreon](https://img.shields.io/badge/patreon-donate-brightgreen.svg)](https://www.patreon.com/bkuhlmann)
 
 A template for smithing new Bash scripts.
 
