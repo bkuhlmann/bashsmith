@@ -1,4 +1,4 @@
-# v3.1.0 (2018-04-01)
+# 3.1.0 (2018-04-01)
 
 - Updated README license information.
 - Updated to Circle CI 2.0.0 configuration.
@@ -6,7 +6,7 @@
 - Updated to Ruby 2.5.1.
 - Removed Patreon badge from README.
 
-# v3.0.0 (2018-01-01)
+# 3.0.0 (2018-01-01)
 
 - Added Gemfile.lock to .gitignore.
 - Updated Gemfile.lock file.
@@ -19,7 +19,7 @@
 - Updated to Ruby 2.4.3.
 - Updated to Ruby 2.5.0.
 
-# v2.2.0 (2017-08-27)
+# 2.2.0 (2017-08-27)
 
 - Added Git Cop support.
 - Updated CONTRIBUTING documentation.
@@ -32,14 +32,14 @@
 - Updated to Git Cop 1.5.0.
 - Updated to Git Cop 1.6.0.
 
-# v2.1.0 (2016-11-19)
+# 2.1.0 (2016-11-19)
 
 - Fixed potential CLI option globbing and word splitting.
 - Fixed potential mangling of backslashes with `read`.
 - Updated README versioning documentation.
 - Removed CHANGELOG.md (use CHANGES.md instead).
 
-# v2.0.0 (2016-10-11)
+# 2.0.0 (2016-10-11)
 
 - Fixed Bash script header to dynamically load correct environment.
 - Updated GitHub issue and pull request templates.
@@ -48,7 +48,7 @@
 - Removed `run.sh` (use `bin/run` instead).
 - Refactored run scripts to use break statements.
 
-# v1.1.0 (2016-02-20)
+# 1.1.0 (2016-02-20)
 
 - Fixed contributing guideline links.
 - Added GitHub issue and pull request templates.
@@ -56,7 +56,7 @@
 - Updated run script bash header format.
 - Updated to Code of Conduct, Version 1.4.0.
 
-# v1.0.0 (2015-12-13)
+# 1.0.0 (2015-12-13)
 
 - Fixed hanging script with invalid option.
 - Added Patreon badge to README.
@@ -71,6 +71,6 @@
 - Removed GitTip badge from README.
 - Refactored shell scripts to remove deprecated function definition.
 
-# v0.1.0 (2014-08-19)
+# 0.1.0 (2014-08-19)
 
 - Initial version.
