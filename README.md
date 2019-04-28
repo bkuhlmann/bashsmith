@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="bashsmith.png" alt="Bashsmith Icon"/>
+</p>
+
 # Bashsmith
 
 [![Circle CI Status](https://circleci.com/gh/bkuhlmann/bashsmith.svg?style=svg)](https://circleci.com/gh/bkuhlmann/bashsmith)
