@@ -16,6 +16,8 @@ A template for smithing new Bash scripts.
   - [Requirements](#requirements)
   - [Setup](#setup)
   - [Usage](#usage)
+    - [File Structure](#file-structure)
+    - [Template](#template)
   - [Tests](#tests)
   - [Versioning](#versioning)
   - [Code of Conduct](#code-of-conduct)
@@ -53,8 +55,10 @@ Master Version (unstable):
 
 ## Usage
 
-Clone this repo and rename as needed. All files located within this project provide the basic
-structure/blueprint for creating new Bash script projects. The structure is organized as follows:
+### File Structure
+
+All files located within this project provide the basic structure/blueprint for creating new Bash
+script projects. The structure is organized as follows:
 
 - `bin`: A folder for executable Bash scripts.
   - `run`: The main run script (which loads the lib and settings).
@@ -67,6 +71,22 @@ structure/blueprint for creating new Bash script projects. The structure is orga
 - `CONTRIBUTING.md`: The details of how to contribute to the project.
 - `LICENSE.md`: The license and copyright legalities of the project.
 - `README.md`: The project overview, setup, usage, test, getting started, etc. details.
+
+### Template
+
+The following documents what each template option is:
+
+    # Exit, with error message, when attempting to use an undefined variable.
+    set -o nounset
+
+    # Abort script at first error, when a command exits with non-zero status.
+    set -o errexit
+
+    # Return exit status of the last command in the pipe that returned a non-zero return value.
+    set -o pipefail
+
+    # Defines newlines and tabs as delimiters for splitting words and iterating arrays.
+    IFS=$'\n\t'
 
 ## Tests
 
