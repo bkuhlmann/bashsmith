@@ -46,7 +46,7 @@ Current Version (stable):
 
     git clone https://github.com/bkuhlmann/bashsmith.git
     cd bashsmith
-    git checkout 3.3.3
+    git checkout 3.4.0
 
 Master Version (unstable):
 

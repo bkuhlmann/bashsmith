@@ -1,3 +1,10 @@
+# 3.4.0 (2020-01-01)
+
+- Added usage documentation for file structure and template.
+- Updated to Rake 13.0.0.
+- Updated to Ruby 2.7.0.
+- Removed unnecessary comments from script template.
+
 # 3.3.3 (2019-09-01)
 
 - Updated to Ruby 2.6.4.
