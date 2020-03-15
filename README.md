@@ -15,6 +15,8 @@ A template for smithing new Bash scripts.
   - [Features](#features)
   - [Requirements](#requirements)
   - [Setup](#setup)
+    - [Production](#production)
+    - [Development](#development)
   - [Usage](#usage)
     - [File Structure](#file-structure)
     - [Template](#template)
@@ -39,16 +41,17 @@ A template for smithing new Bash scripts.
 
 ## Setup
 
-Open a terminal window and execute one of the following setup sequences depending on your version
-preference:
+### Production
 
-Current Version (stable):
+To install, run:
 
     git clone https://github.com/bkuhlmann/bashsmith.git
     cd bashsmith
     git checkout 3.4.0
 
-Master Version (unstable):
+### Development
+
+To contribute, run:
 
     git clone https://github.com/bkuhlmann/bashsmith.git
     cd bashsmith
