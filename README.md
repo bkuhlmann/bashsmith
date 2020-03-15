@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="bashsmith.png" alt="Bashsmith Icon"/>
+  <img src="https://www.alchemists.io/images/projects/bashsmith/icon.png" alt="Bashsmith Icon"/>
 </p>
 
 # Bashsmith
