@@ -56,11 +56,11 @@ script projects. The structure is organized as follows:
 ** `cli.sh`: Provides CLI prompt options for the main `run` script.
 * `settings`: The global/project settings for easy manipulation/tweaking.
 ** `main.sh`: The global settings (set with safe defaults).
-* `CHANGELOG.md`: The details of past version releases.
-* `CODE_OF_CONDUCT.md`: Guidelines for encouraging harassment-free contributions.
-* `CONTRIBUTING.md`: The details of how to contribute to the project.
-* `LICENSE.md`: The license and copyright legalities of the project.
-* `README.md`: The project overview, setup, usage, test, getting started, etc. details.
+* `CHANGES.adoc`: The details of past version releases.
+* `CODE_OF_CONDUCT.adoc`: Guidelines for encouraging harassment-free contributions.
+* `CONTRIBUTING.adoc`: The details of how to contribute to the project.
+* `LICENSE.adoc`: The license and copyright legalities of the project.
+* `README.adoc`: The project overview, setup, usage, test, getting started, etc. details.
 
 === Template
 
