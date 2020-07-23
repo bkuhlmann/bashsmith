@@ -1,14 +1,23 @@
 = Changes
 
+== 3.6.0 (2020-07-22)
+
+* Fixed README documentation references
+* Updated GitHub templates
+* Updated README credit URL
+* Updated README file structure to use tree layout
+* Updated to Git Lint 1.0.0
+* Refactored Rakefile requirements
+
 == 3.5.0 (2020-04-01)
 
-- Added README production and development setup instructions
-- Updated Circle CI build label
-- Updated documentation to ASCII Doc format
-- Updated to Code of Conduct 2.0.0
-- Updated to Git Cop 4.0.0
-- Updated to Ruby 2.7.1
-- Removed README images
+* Added README production and development setup instructions
+* Updated Circle CI build label
+* Updated documentation to ASCII Doc format
+* Updated to Code of Conduct 2.0.0
+* Updated to Git Cop 4.0.0
+* Updated to Ruby 2.7.1
+* Removed README images
 
 == 3.4.0 (2020-01-01)
 
