@@ -22,8 +22,6 @@ toc::[]
 
 == Setup
 
-=== Production
-
 To install, run:
 
 [source,bash]
@@ -31,16 +29,6 @@ To install, run:
 git clone https://github.com/bkuhlmann/bashsmith.git
 cd bashsmith
 git checkout 3.6.0
-----
-
-=== Development
-
-To contribute, run:
-
-[source,bash]
-----
-git clone https://github.com/bkuhlmann/bashsmith.git
-cd bashsmith
 ----
 
 == Usage
@@ -81,6 +69,16 @@ set -o pipefail
 
 # Defines newlines and tabs as delimiters for splitting words and iterating arrays.
 IFS=$'\n\t'
+----
+
+== Development
+
+To contribute, run:
+
+[source,bash]
+----
+git clone https://github.com/bkuhlmann/bashsmith.git
+cd bashsmith
 ----
 
 == Tests
