@@ -1,5 +1,12 @@
 = Changes
 
+== 4.0.1 (2021-08-05)
+
+* Updated to Circle CI 2.1.0 - Brooke Kuhlmann
+* Updated to Docker Alpine Ruby image - Brooke Kuhlmann
+* Updated to Ruby 3.0.1 - Brooke Kuhlmann
+* Updated to Ruby 3.0.2 - Brooke Kuhlmann
+
 == 4.0.0 (2020-12-30)
 
 * Fixed Circle CI configuration for Bundler config path - Brooke Kuhlmann
