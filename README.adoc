@@ -7,7 +7,10 @@
 [link=https://circleci.com/gh/bkuhlmann/bashsmith]
 image::https://circleci.com/gh/bkuhlmann/bashsmith.svg?style=svg[Circle CI Status]
 
-A template for smithing new Bash scripts.
+Bashsmith is a project template for smithing new link:https://www.gnu.org/software/bash[Bash]
+shell-based projects based on best practices. This project is meant to be cloned and customized for
+your specific shell scripting needs giving you a foundation from which to get started faster than
+with an empty slate.
 
 toc::[]
 
