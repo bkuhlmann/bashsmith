@@ -1,5 +1,11 @@
 = Changes
 
+== 4.0.2 (2021-11-20)
+
+* Added README community link - Brooke Kuhlmann
+* Updated README project description - Brooke Kuhlmann
+* Removed notes from pull request template - Brooke Kuhlmann
+
 == 4.0.1 (2021-08-05)
 
 * Updated to Circle CI 2.1.0 - Brooke Kuhlmann
