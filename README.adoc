@@ -31,7 +31,7 @@ To install, run:
 ----
 git clone https://github.com/bkuhlmann/bashsmith.git
 cd bashsmith
-git checkout 4.0.2
+git checkout 5.0.0
 ----
 
 == Usage
