@@ -1,8 +1,9 @@
 # frozen_string_literal: true
 
-require "git/lint/rake/setup"
+# require "git/lint/rake/setup"
 require "rubocop/rake_task"
 
 RuboCop::RakeTask.new
 
-task default: %i[git_lint rubocop]
+# task default: %i[git_lint rubocop]
+task default: %i[rubocop]
