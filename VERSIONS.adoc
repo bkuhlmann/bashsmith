@@ -1,5 +1,10 @@
 = Versions
 
+== 5.2.3 (2023-04-30)
+
+* Updated to Caliber 0.30.0 - Brooke Kuhlmann
+* Updated to Ruby 3.2.2 - Brooke Kuhlmann
+
 == 5.2.2 (2023-03-22)
 
 * Updated site URLs to use bare domain - Brooke Kuhlmann
