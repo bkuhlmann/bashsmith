@@ -2,9 +2,9 @@ cff-version: 1.2.0
 message: Please use the following metadata when citing this project in your work.
 title: Bashsmith
 abstract: A template for smithing Bash scripts.
-version: 5.2.4
+version: 5.2.5
 license: Hippocratic-2.1
-date-released: 2023-06-19
+date-released: 2023-09-27
 authors:
   - family-names: Kuhlmann
     given-names: Brooke

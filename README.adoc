@@ -28,7 +28,7 @@ To install, run:
 ----
 git clone https://github.com/bkuhlmann/bashsmith.git
 cd bashsmith
-git checkout 5.2.4
+git checkout 5.2.5
 ----
 
 == Usage
@@ -59,9 +59,11 @@ The following documents what each template option is:
 [source,bash]
 ----
 # Exit, with error message, when attempting to use an undefined variable.
+# Alias: `set -u`.
 set -o nounset
 
-# Abort script at first error, when a command exits with non-zero status.
+# Abort script at first error when a command exits with non-zero status.
+# Alias: `set -e`.
 set -o errexit
 
 # Return exit status of the last command in the pipe that returned a non-zero return value.
@@ -70,6 +72,21 @@ set -o pipefail
 # Defines newlines and tabs as delimiters for splitting words and iterating arrays.
 IFS=$'\n\t'
 ----
+
+=== Debugging
+
+For debugging purposes, you can add the following option:
+
+[source,bash]
+----
+# Prints all executed commands.
+# Alias: `set -x`.
+set -o xtrace
+----
+
+The above is useful for debugging purposes but probably not something you want always enabled.
+
+💡 For additional options, use `help set` to learn more.
 
 == Development
 

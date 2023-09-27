@@ -1,5 +1,9 @@
 = Versions
 
+== 5.2.5 (2023-09-27)
+
+Added Debug gem - Brooke Kuhlmann
+
 == 5.2.4 (2023-06-19)
 
 * Updated citation abstract - Brooke Kuhlmann
