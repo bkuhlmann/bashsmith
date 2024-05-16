@@ -1,5 +1,11 @@
 = Versions
 
+== 6.2.0 (2024-05-16)
+
+* 🔼 Updated to Git Lint 7.3.0 - Brooke Kuhlmann
+* 🔼 Updated to Rake 13.2.0 - Brooke Kuhlmann
+* 🔼 Updated to Ruby 3.3.1 - Brooke Kuhlmann
+
 == 6.1.0 (2024-03-03)
 
 * 🔼 Updated RuboCop to use XDG local configuration - Brooke Kuhlmann
