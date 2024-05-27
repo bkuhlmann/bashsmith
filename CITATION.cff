@@ -17,5 +17,6 @@ keywords:
  - generator
  - templates
  - best practices
-repository-code: https://alchemists.io/projects/bashsmith
+repository-code: https://github.com/bkuhlmann/bashsmith
 repository-artifact: https://alchemists.io/projects/bashsmith
+url: https://alchemists.io/projects/bashsmith
