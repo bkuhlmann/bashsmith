@@ -1,5 +1,10 @@
 = Versions
 
+== 6.2.1 (2024-06-01)
+
+* 🔼 Updated citation URLs - Brooke Kuhlmann
+* 🔼 Updated to Ruby 3.3.2 - Brooke Kuhlmann
+
 == 6.2.0 (2024-05-16)
 
 * 🔼 Updated to Git Lint 7.3.0 - Brooke Kuhlmann
