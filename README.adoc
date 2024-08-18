@@ -110,6 +110,8 @@ Consider using link:https://github.com/sstephenson/bats[Bats].
 
 == link:https://alchemists.io/policies/contributions[Contributions]
 
+== link:https://alchemists.io/policies/developer_certificate_of_origin[Developer Certificate of Origin]
+
 == link:https://alchemists.io/projects/bashsmith/versions[Versions]
 
 == link:https://alchemists.io/community[Community]
