@@ -28,7 +28,7 @@ To install, run:
 ----
 git clone https://github.com/bkuhlmann/bashsmith.git
 cd bashsmith
-git checkout 6.7.0
+git checkout 6.8.0
 ----
 
 == Usage
