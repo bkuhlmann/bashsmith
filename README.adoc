@@ -39,17 +39,15 @@ All files located within this project provide the basic structure/blueprint for 
 script projects. The structure is organized as follows:
 
 ....
-├── CHANGES.adoc          # The details of past version releases.
-├── CODE_OF_CONDUCT.adoc  # Guidelines for encouraging harassment-free contributions.
-├── CONTRIBUTING.adoc     # The details of how to contribute to the project.
-├── LICENSE.adoc          # The license and copyright legalities of the project.
-├── README.adoc           # The project overview, setup, usage, testing, etc.
-├── bin                   # A folder for executable Bash scripts.
-│   └── run               # The main run script (which loads the lib and settings).
-├── lib                   # A folder for Bash functions and custom code.
-│   └── cli.sh            # Provides CLI prompt options for the main `run` script.
-├── settings              # The global/project settings for easy manipulation/tweaking.
-│   └── main.sh           # The global settings (set with safe defaults).
+├── bin           # A folder for executable Bash scripts.
+│   └── run       # The main run script (which loads the lib and settings).
+├── lib           # A folder for Bash functions and custom code.
+│   └── cli.sh    # Provides CLI prompt options for the main `run` script.
+├── settings
+│   └── main.sh   # The global/project settings for easy manipulation/tweaking.
+├── .gitignore    # The Git list of folders and files to ignore.
+├── LICENSE.adoc  # The license and copyright legalities of the project.
+└── README.adoc   # The project overview, setup, usage, testing, etc.
 ....
 
 === Template
@@ -58,13 +56,13 @@ The following documents what each template option is:
 
 [source,bash]
 ----
-# Exit, with error message, when attempting to use an undefined variable.
-# Alias: `set -u`.
-set -o nounset
-
 # Abort script at first error when a command exits with non-zero status.
 # Alias: `set -e`.
 set -o errexit
+
+# Exit, with error message, when attempting to use an undefined variable.
+# Alias: `set -u`.
+set -o nounset
 
 # Return exit status of the last command in the pipe that returned a non-zero return value.
 set -o pipefail
@@ -85,8 +83,6 @@ set -o xtrace
 ----
 
 The above is useful for debugging purposes but probably not something you want always enabled.
-
-💡 For additional options, use `help set` to learn more.
 
 == Development
 
